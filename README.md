@@ -2,9 +2,6 @@ Sure bro! Here's a clean and beginner-friendly `README.md` file explaining both 
 
 ---
 
-### ✅ **README.md**
-
-````markdown
 # 🌗 React Context API - Theme Toggle Example
 
 This project demonstrates how to use **React Context API** to manage global state (like light/dark theme) in two different ways:
