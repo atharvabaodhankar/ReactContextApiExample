@@ -161,19 +161,5 @@ export const Home = () => {
 
 ---
 
-## 🧪 Try Expanding It
-
-* Add `localStorage` to persist theme
-* Add `user login` state to context
-* Use with `React Router`
-
----
-
 ### 💡 Built by Atharva with ❤️ & React
 
-```
-
----
-
-Let me know if you want a version with screenshots or badges, or if you'd like to turn this into a GitHub repo with a README and full starter code!
-```

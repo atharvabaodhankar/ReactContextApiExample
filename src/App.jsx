@@ -1,6 +1,7 @@
 import { ThemeProvider, useTheme } from './context/ThemeContext';
 import './App.css';
 import { Home } from './pages/Home';
+import { AuthProvider } from './context/AuthContext';
 
 function AppContent() {
   const { theme, toggleTheme } = useTheme();
@@ -20,7 +21,9 @@ function AppContent() {
 function App() {
   return (
     <ThemeProvider>
-      <AppContent />
+      <AuthProvider>
+        <AppContent />
+      </AuthProvider>
     </ThemeProvider>
   );
 }
