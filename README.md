@@ -1,5 +1,3 @@
-Sure bro! Here's a clean and beginner-friendly `README.md` file explaining both Method 1 and Method 2 in the context of your `ThemeContext` example using React's Context API.
-
 ---
 
 # 🌗 React Context API - Theme Toggle Example
